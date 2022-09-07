@@ -1,1 +1,1 @@
-cat -n | cut -c6- | grep -vP "[02468]\t" | cut -f2
+7-create_global_variable
